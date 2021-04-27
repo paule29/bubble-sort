@@ -1,0 +1,8 @@
+#chart div{
+    width: 8px;
+    background-color: teal;
+    margin: 2px;
+}
+#chart{
+    display: flex;
+}
